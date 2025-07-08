@@ -1,0 +1,50 @@
+[
+  {
+    "category": "personal",
+    "name": "موقع شخصي",
+    "date": "2025-05-01",
+    "description": "عبارة عن موقع يعرض كل خدماتك وانجازاتك والتوصية الخاصة بك وكل حساباتك على رابط واحد فقط ⭐",
+    "image": "https://i.postimg.cc/s2YF8t1G/file-00000000798861f8a5f9d0e7a7599bbe-conversation-id-68335aad-a9f8-8007-8f06-c1bd5991bc39-message-i.png",
+    "link": "https://www.ali-Altaee.free.nf"
+  },
+  {
+    "category": "personal",
+    "name": "موقع نهج الشيعة",
+    "date": "2024-02-10",
+    "description": "هو منصة دينية تهدف لتقديم محتوى شيعي موثوق ومنظم، يشمل الأقسام المهمة مثل التسابيح، الأدعية، الزيارات، الصوتيات، والتقويمين الهجري والميلادي. يتميز بتصميم احترافي وسهل الاستخدام، ويركز على تسهيل الوصول للنصوص الدينية والأذكار اليومية",
+    "image": "https://i.postimg.cc/XY94zw6W/Nahg-alsheaa.jpg",
+    "link": "https://www.shieaa.free.nf/"
+  },
+  {
+    "category": "personal",
+    "name": "موقع تقسيم ملفات pdf",
+    "date": "2025-05-27",
+    "description": "عبارة عن موقع يقوم بتقسيم ملفات PDF إلى صفحات أمامية أو خلفية، ليسهل عليك عملية الطباعة.",
+    "image": "https://i.postimg.cc/j2Nn3DsF/prev.png",
+    "link": "https://www.file-pdf.free.nf/"
+  },
+  {
+    "category": "personal",
+    "name": "موقع تحربة توكن",
+    "date": "2025-05-27",
+    "description": "يساعدك على تجربة توكنك",
+    "image": "https://i.postimg.cc/d1D0YsCS/2c7bbeb42fa01dcc040161e00544e1e7.jpg",
+    "link": "https://www.altaee.free.nf"
+  },
+  {
+    "category": "personal",
+    "name": "موقع عرض بوتات",
+    "date": "2025-05-28",
+    "description": "موقع يعرض جميع بوتاتي على تلجرام",
+    "image": "https://i.postimg.cc/d1D0YsCS/2c7bbeb42fa01dcc040161e00544e1e7.jpg",
+    "link": "https://www.my00002.free.nf"
+  },
+  {
+    "category": "in-progress",
+    "name": "موقع منصة على تلجرام",
+    "date": "2025-05-28",
+    "description": "يقوم بعرض المنشورات والمميزات الموجودة نصة على تلجرام",
+    "link": "http://www.technology.free.nf",
+    "expected": "2025-05-28"
+  }
+]
